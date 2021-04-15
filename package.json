@@ -9,6 +9,7 @@
     "test": "jest",
     "file": "babel-node"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
